@@ -52,7 +52,7 @@
     "@azure/storage-blob": "^12.5.0",
     "faker": "^5.5.3",
     "ulid": "^2.3.0",
-    "fastify": "^3.15.0",
+    "fastify": "^3.29.4",
     "fastify-cli": "2.10.0",
     "fp-ts": "^2.11.1",
     "io-ts": "^2.2.16"
